@@ -38,7 +38,7 @@ public class IntLinkedList {
     }
 
 }
-
+// TODO: zamienic klase NODE na klase private
 class Node {
 
     public int value;
